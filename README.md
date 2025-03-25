@@ -1,16 +1,13 @@
-## Hi there 👋
+# japancat  
 
-<!--
-**japancat/japancat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hii~ im kat, aka japancat >w< i do graphic design with 6+ years of experience!!  
+i luv making logos n pretty stuff <3 i also code for fun, usually in php or python (but i make cursed things too lol)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- graphic design (logos, branding)  
+- coding (php, python, web stuff)  
+- breaking things in the funniest ways possible  
+
+⟡ contact ⟡  
+- website: [sillylitlecat.club](https://sillylittlecat.club)
+- discord: kinorx
